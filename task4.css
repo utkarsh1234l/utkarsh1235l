@@ -1,0 +1,10 @@
+.box{
+    padding: 20px;
+    margin: 20px;
+}
+
+.box label{
+    padding: 5px;
+    display: inline-block;
+    width: 200px;
+}

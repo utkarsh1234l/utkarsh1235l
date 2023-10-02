@@ -1,0 +1,19 @@
+.task3{
+    background-color:lightgray;
+    
+    border-radius : 2px black;
+   
+    padding: 15px;
+    border: 3px solid grey;
+}
+
+a{
+    margin-right: 10px;
+}
+.task3 .email{
+    background-color: white;
+}
+    
+
+   
+    
